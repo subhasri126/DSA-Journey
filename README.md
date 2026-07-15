@@ -7,6 +7,7 @@ This repository contains my learning notes and Java programs for Data Structures
 ## Topics Covered
 
 *  Introduction to DSA
+*  Time and space complexity
 
 ## Programming Language
 
