@@ -9,6 +9,18 @@ This repository contains my learning notes and Java programs for Data Structures
 *  Introduction to DSA
 *  Time and space complexity
 
+## Repository Structure
+
+DSA/
+│
+├── README.md
+│
+├── 01-Introduction/
+│   └── DSA Introduction.md
+│
+└── 02-Time-and-Space-Complexity/
+    └── Time and Space Complexity.md
+
 ## Programming Language
 
 * Java
